@@ -1,0 +1,9 @@
+{
+    "BIDSVersion": "1.4.1",
+    "Name": "Parallel systems for social and spatial reasoning",
+	"DatasetType": "raw",
+    "Authors": [
+		"Ben Deen",
+		"Winrich Freiwald"
+	]
+}
